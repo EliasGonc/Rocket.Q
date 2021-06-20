@@ -1,2 +1,2 @@
-# NLW-Discover
- Projeto da Next Level Week, Mission: Discover da Rocketseat
+# Rocket.q
+ Next Level Week's Mission: Discover project (from Rocketseat)
