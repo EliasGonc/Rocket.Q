@@ -19,6 +19,7 @@ html {
 	--grey-dark: #4D5E77;
 	--grey-blue: #A1B2CD;
 	--grey-medium: #D3D9E2;
+	--grey-light2: #EAECF2;
 	--grey-light: #E5EAF1;
 
 	--hover-blue: #5699FF;
@@ -80,6 +81,17 @@ button.outlined, .button.outlined {
 	background-color: var(--white);
 	border: .2rem solid var(--blue);
 	color: var(--blue);
+}
+
+button.red, .button.red {
+	background-color: var(--red);
+	font-weight: medium;
+}
+
+button.grey, .button.grey {
+	background-color: var(--grey-light);
+	color: var(--grey-dark);
+	font-weight: medium;
 }
 
 .content {
