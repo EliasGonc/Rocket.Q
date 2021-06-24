@@ -1,0 +1,30 @@
+{
+  "name": "Rocket.q",
+  "version": "1.0.0",
+  "description": "Next Level Week's Mission: Discover project (from Rocketseat) – an anonymous question management solution.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasGonc/Rocket.Q.git"
+  },
+  "keywords": [
+    "nlw",
+    "rocketseat"
+  ],
+  "author": "Elias Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliasGonc/Rocket.Q/issues"
+  },
+  "homepage": "https://github.com/EliasGonc/Rocket.Q#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
