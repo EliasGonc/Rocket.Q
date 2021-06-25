@@ -11,7 +11,7 @@ module.exports = {
 			password
 		) VALUES (
 			${roomId},
-			${password}
+			'${password}'
 		)
 		`)
 		await db.close()
