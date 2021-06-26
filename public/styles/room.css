@@ -94,6 +94,31 @@
 	width: 100%;
 }
 
+.no-questions {
+	text-align: center;
+	margin-top: 5.2rem;
+}
+
+.no-questions > img {
+	max-width: 100%;
+	margin-bottom: 1.2rem;
+}
+
+.no-questions > p:first-of-type {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+	color: var(--black);
+	font-size: 1.8rem;
+	line-height: 2.7rem;
+	margin-bottom: 1.3rem;
+}
+
+.no-questions > p:last-of-type {
+	color: var(--grey-dark);
+	font-size: 1.4rem;
+	line-height: 1.9rem;
+}
+
 .question-wrapper {
 	background-color: var(--light-blue);
 	margin: .8rem 0;
